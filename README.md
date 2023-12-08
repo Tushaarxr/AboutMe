@@ -21,7 +21,7 @@ I believe that technology has the power to transform ideas into reality. Coding,
 ### 📫 Let's Connect!
 
 - 📧 Email: tushaarxr@gmail.com
-- 🔗 LinkedIn: [@tushaarzr](https://www.linkedin.com/in/tushar-kumar-407231267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🔗 LinkedIn: [@tushaarxr](https://www.linkedin.com/in/tushar-kumar-407231267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Feel free to explore my repositories and drop a star if you find something interesting. Let's code and create together! 🚀
 
